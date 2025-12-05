@@ -1,3 +1,6 @@
+Минеева Елизавета ИС-422к
+
+
 # СА
 
 https://github.com/dergunovs/sa
